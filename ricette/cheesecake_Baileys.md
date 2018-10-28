@@ -2,17 +2,17 @@
 
 ## Ingredienti
 
-- 100 gr burro 3½oz
-- 250 gr / 8¾ oz biscotti digestive, schiacciato
+- 100 gr burro 3Â½oz
+- 250 gr / 8Â¾ oz biscotti digestive, schiacciato
 - 600 gr / 1 lb 5 oz crema di formaggio tipo Philadelphia
 - 25 ml / oz 1FL Baileys
-- 100 ml / 3½ oz zucchero a velo
-- 300 ml / 10½ oz panna montata
-- 100g / 3½ oz cioccolato grattugiato
+- 100 ml / 3Â½ oz zucchero a velo
+- 300 ml / 10Â½ oz panna montata
+- 100g / 3Â½ oz cioccolato grattugiato
 
 ## Per guarnire
 
-- 200 ml / 7¼ oz panna montata
+- 200 ml / 7Â¼ oz panna montata
 - Cacao in polvere
 
 1. Sciogliere il burro in una padella e aggiungere i biscotti digestivi 

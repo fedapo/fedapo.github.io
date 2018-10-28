@@ -4,7 +4,7 @@
 
 ## Lista della spesa:
 
-- 2 scatole di grano gi‡ preparato ammorbidito (marca Chirico 400 gr.)
+- 2 scatole di grano gi√† preparato ammorbidito (marca Chirico 400 gr.)
 - ricotta: 700 gr freschissima
 - uova: 12
 - zucchero: 900 gr
@@ -20,7 +20,7 @@
 ## Ingredienti per il ripieno
 
 grano
-- 2 scatole di grano gi‡ preparato ammorbidito (marca Chirico 400 gr.)
+- 2 scatole di grano gi√† preparato ammorbidito (marca Chirico 400 gr.)
 - burro: 50 gr.
 - latte: 250 cc
 - cannella: un pizzico
@@ -49,7 +49,7 @@ crema di ricotta
 - limone: mezza scorza triturata
 - Un pizzico di sale.
 
-(per fare un terzo in pi˘ di pasta frolla...)
+(per fare un terzo in pi√π di pasta frolla...)
 - farina: 667 gr.
 - burro: 267 gr.
 - zucchero: 267 gr.
@@ -61,21 +61,21 @@ crema di ricotta
 
 1. Versare il contenuto delle scatole di grano in un tegame aggiungendo 250 ml
    di latte, 50 gr di burro, un pizzico di cannella e la scorza intera di mezzo
-   limone (da togliere dopo la cottura). Far bollire e mescolare finchÈ non
+   limone (da togliere dopo la cottura). Far bollire e mescolare finch√© non
    diventa una crema. Far raffreddare.
-2. Preparare a parte una crema pasticcera con i due tuorli díuovo, uniti a 4
+2. Preparare a parte una crema pasticcera con i due tuorli d'uovo, uniti a 4
    cucchiai grossi di zucchero, due di farina e due bicchieri colmi di latte,
    aggiungendo la scorza intera di mezzo limone, da togliere a fine cottura,
-   che dovr‡ durare almeno 5 minuti, da quando la crema si sar‡ rassodata,
+   che dovr√† durare almeno 5 minuti, da quando la crema si sar√† rassodata,
    girando in continuazione con un cucchiaio di legno per dolci. Far
    raffreddare.
 3. Preparare con i 700 gr di ricotta passata con il mulinex, i 600 gr di
-   zucchero, líacqua di fior díarancio, la vanillina ed il cedro candito una
+   zucchero, l'acqua di fior d'arancio, la vanillina ed il cedro candito una
    crema, mescolando accuratamente tutti gli ingredienti fino ad ottenere un
    composto omogeneo in cui lo zucchero si sia completamente sciolto.
 4. Unire i preparati dei punti 1. 2. 3. unitamente alla 6 uova intere (di queste
    due chiare potrebbero essere montate a neve ed aggiunte successivamente al
-   composto) ed amalgamare accuratamente. Tale ripieno dovr‡ essere versato, per
+   composto) ed amalgamare accuratamente. Tale ripieno dovr√† essere versato, per
    uno spessore di 3 cm, nelle tortiere foderate di circa 5 mm di pasta frolla
    preparata come di seguito descritto.
 5. Per la preparazione della pasta, mescolare tutti gli ingredienti su una
@@ -84,8 +84,8 @@ crema di ricotta
    e foderare il fondo delle tortiere dopo averlo spalmato di burro e farina.
    Dopo aver versato il ripieno guarnire la superficie con strisce di pasta
    della larghezza di circa 2,5 cm a forma di graticolato.
-6. Cuocere a forno ben caldo (180∞- 190∞) per circa uníora (40 min tutto +
-   20-25 min solo sotto). La torta dovr‡ assumere un bel colore ambrato intenso.
+6. Cuocere a forno ben caldo (180¬∞- 190¬∞) per circa un'ora (40 min tutto +
+   20-25 min solo sotto). La torta dovr√† assumere un bel colore ambrato intenso.
    A fine cottura e torta fredda spolverizzare con zucchero a velo la
    superficie.
 7. Servire a fine pasto (leggero possibilmente) e buon appetito!

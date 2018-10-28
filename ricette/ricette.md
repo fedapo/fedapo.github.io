@@ -1,7 +1,7 @@
 ---
 title: Ricette
 ---
-Ricette
+# Ricette
 
 Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordpress.com/).
 

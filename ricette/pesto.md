@@ -21,9 +21,10 @@ Un tempo il pesto veniva preparato in un mortaio di marmo con pestello di legno,
 Oggi conviene, per praticità, mettere tutti gli ingredienti, lasciando da parte il basilico, in un frullatore insieme all’olio d’oliva, frullare il tutto fino ad ottenere una crema morbida (per la consistenza si può aggiungere o ridurre il quantitativo di olio), solo alla fine si aggiunge il basilico e lo si frulla insieme alla crema degli altri ingredienti badando a non spappolarlo eccessivamente, si dovranno ancora vedere dei pezzetti di foglioline di basilico.
 
 Tutto il composto assumerà l’aspetto di una crema verde, tale crema potrà servire per condire:
-Pasta secca (le migliori sono le linguine con aggiunta di patate a fette e/o fagiolini da cuocere insieme alla pasta)
-Pasta fresca (fettuccine, lasagne)
-Gnocchi e trofie (consigliati i fagiolini anche con quest’ultime)
-Pizzoccheri della Valtellina con patate e verdure.
+
+- Pasta secca (linguine con patate a pezzi e fagiolini da cuocere insieme alla pasta)
+- Pasta fresca (fettuccine, lasagne)
+- Gnocchi e trofie (consigliati i fagiolini anche con queste ultime)
+- Pizzoccheri della Valtellina con patate e verdure
 
 In fase di condimento delle varie paste si consiglia di aggiungere al pesto un po’ di acqua di cottura che terrete da parte per ammorbidire e migliorare l’amalgama degli ingredienti.

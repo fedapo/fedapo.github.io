@@ -1,3 +1,6 @@
+---
+title: Pasta frolla
+---
 # Pasta frolla
 
 * 200 gr farina

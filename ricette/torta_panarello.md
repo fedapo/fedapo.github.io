@@ -1,3 +1,6 @@
+---
+title: Torta panarello
+---
 # Torta panarello
 
 - 4 uova

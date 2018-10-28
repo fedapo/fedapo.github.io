@@ -1,3 +1,6 @@
+---
+title: Pastiera napoletana
+---
 # Pastiera napoletana
 
 (per 2 torte di circa 28 cm di diametro)

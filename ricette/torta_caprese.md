@@ -1,3 +1,6 @@
+---
+title: Torta caprese
+---
 # Torta caprese
 
 - 6 uova

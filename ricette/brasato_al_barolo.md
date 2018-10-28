@@ -1,3 +1,6 @@
+---
+title: Brasato al barolo
+---
 # Brasato al Barolo
 
 (per 4 persone)

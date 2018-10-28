@@ -12,6 +12,7 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 - [Tocco](tocco.md)
 - [Pizza di scarola](pizza_di_scarola.md)
 - [Pesto](pesto.md)
+- [Pane casalingo](pane_casalingo.md)
 
 ## Dolci
 

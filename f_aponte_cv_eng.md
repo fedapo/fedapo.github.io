@@ -3,16 +3,17 @@ title: Federico Aponte's CV
 ---
 # Federico Aponte
 
-Piazza Palermo, 7/7d
-16129 Genova - ITALY
-home +39.(0)10.8681434
-mobile +39.346.0115913 - +39.347.2988493
-federico.aponte@gmail.com 
+Piazza Palermo, 7/7d  
+16129 Genova - ITALY  
+home +39.(0)10.8681434  
+mobile +39.346.0115913 - +39.347.2988493  
+federico.aponte@gmail.com  
+https://fedapo.github.io
 
 ## Personal Details
 
-Date of birth: July 4, 1972 
-Place of birth: Genoa 
+Date of birth: July 4, 1972  
+Place of birth: Genoa  
 Citizenship: Italian
 
 ## Work Experience
@@ -47,14 +48,19 @@ Development of a software application for real-time video signal acquisition and
 
 C/C++
 : Deep knowledge gained with long work experience. Usage of the Standard Template Library (STL). Daily usage of some of the main commercial IDE’s (Visual Studio, C++ Builder). 
+
 Java
 : Work experience. Servlet programming for server-side web application development. Network programming for device communication.
+
 Python
 : Writing of scripts for carrying out activities related to the management of large software projects.
+
 Javascript
 : Good knowledge for client-side web programming.
+
 VB6
 : Extensive knowledge, necessary for maintaining a large, important project I found myself responsible for during my career.
+
 Oracle PL/SQL
 : Good knowledge of Oracle database programming and design.
 
@@ -78,7 +84,7 @@ Oracle PL/SQL
 
 ## Education
 
-- University of Padova – Bachelor degree in Computer Engineering (2000)
+- University of Padova – Master degree in Computer Engineering (2000)
 - Liceo Scientifico “I. Nievo”, Padova - High School Diploma (1991)
 - Dr Phillips High School, Orlando (USA) - High School Diploma (1990)
 

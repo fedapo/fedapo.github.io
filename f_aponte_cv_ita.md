@@ -3,11 +3,12 @@ tile: Federico Aponte - Curriculum vitae
 ---
 # Federico Aponte
 
-Piazza Palermo, 7/7d
-16129 Genova
-tel. 010.8681434
-cell. 346.0115913 - 347.2988493
-federico.aponte@gmail.com
+Piazza Palermo, 7/7d  
+16129 Genova  
+tel. 010.8681434  
+cell. 346.0115913 - 347.2988493  
+federico.aponte@gmail.com  
+https://fedapo.github.io
 
 ## Dati Personali
 
@@ -46,14 +47,19 @@ Sviluppo di software per l’acquisizione in tempo reale e l’archiviazione di 
 
 C/C++
 : Estesa conoscenza derivante da lunga esperienza di lavoro. Utilizzo della Standard Template Library (STL). Dimestichezza con alcuni principali IDE commerciali (Visual Studio, C++ Builder). 
+
 Java
 : Esperienza di lavoro. Programmazione di servlet per sviluppo applicazioni web lato server. Programmazione di rete per comunicazione tra dispositivi. Utilizzo di Eclipse come ambiente di sviluppo.
+
 Python
 : Composizione di script per attività ricorrenti nella gestione di progetti software.
+
 Javascript
 : Buona conoscenza per programmazione web lato client.
+
 VB6
 : Estesa conoscenza, resa necessaria per il mantenimento di un importante progetto gestito durante la mia carriera.
+
 Oracle PL/SQL
 : Buona conoscenza di programmazione e progettazione di basi di dati Oracle.
 

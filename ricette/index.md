@@ -13,6 +13,8 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 - [Pizza di scarola](pizza_di_scarola.md)
 - [Pesto](pesto.md)
 - [Pane casalingo](pane_casalingo.md)
+- [Torta pasqualina](torta_pasqualina.md)
+- [Pizza](pizza.md)
 
 ## Dolci
 
@@ -23,3 +25,4 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 - [Pastiera napoletana](pastiera_napoletana.md)
 - [Torta caprese](torta_caprese.md)
 - [Torta panarello](torta_panarello.md)
+- [Brioche](brioche.md)

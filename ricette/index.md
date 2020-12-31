@@ -18,6 +18,7 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 
 ## Dolci
 
+- [Struel di mele](strudel_di_mele.md)
 - [Camille](camille.md)
 - [Muffin allo yogurt](muffin_allo_yogurt.md)
 - [Cheescake al Bailey's](cheesecake_Baileys.md)

@@ -18,7 +18,7 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 
 ## Dolci
 
-- [Struel di mele](strudel_di_mele.md)
+- [Strudel di mele](strudel_di_mele.md)
 - [Camille](camille.md)
 - [Muffin allo yogurt](muffin_allo_yogurt.md)
 - [Cheescake al Bailey's](cheesecake_Baileys.md)
@@ -27,3 +27,4 @@ Per altre ricette consultare [Prosecco & Barbera](https://proseccoebarbera.wordp
 - [Torta caprese](torta_caprese.md)
 - [Torta panarello](torta_panarello.md)
 - [Brioche](brioche.md)
+- [Angel Food Cake](angel_food_cake.md)

@@ -11,13 +11,13 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 
 Gennaio 2022 - Presente \
 Genova (da remoto) \
-`Sysdig` - [www.sysdig.com](www.sysdig.com) \
+`Sysdig` - [www.sysdig.com](http://www.sysdig.com) \
 **Senior Systems Software Engineer**
 
 ---
 Luglio 2021 - Gennaio 2022 \
 Genova (da remoto) \
-`Viz.ai`- [www.viz.ai](www.viz.ai) \
+`Viz.ai`- [www.viz.ai](http://www.viz.ai) \
 **Technical Application Specialist**
 - Technical and application support to Viz.ai solution for managing stroke-related workflow in clinical departments.
 - Planning, deployment, support, training for Viz.ai cloud-based solution and mobile apps.
@@ -26,7 +26,7 @@ Genova (da remoto) \
 ---
 Sett. 2019 - Giugno 2021 \
 Sophia Antipolis (Nizza), Francia \
-`Amadeus` - [www.amadeus.com](www.amadeus.com) \
+`Amadeus` - [www.amadeus.com](http://www.amadeus.com) \
 **Staff Software Development Engineer**
 - Sviluppo di componenti software di back-end per le attività di shopping, preventive e prenotazione di soluzioni assicurative associate a altri servizi offerti da Amadeus (prenotazione voli e noleggio auto).
 - Sviluppo in C++ "moderno" (post C++11).
@@ -34,26 +34,26 @@ Sophia Antipolis (Nizza), Francia \
 
 ---
 Ott. 2018 - Ago. 2019 \
-`Vislab Srl (Ambarella)` - [www.vislab.it](www.vislab.it) - [www.ambarella.com](www.ambarella.com), Parma \
+`Vislab Srl (Ambarella)` - [www.vislab.it](http://www.vislab.it) - [www.ambarella.com](http://www.ambarella.com), Parma \
 **Staff Algorithm Engineer**
 - Sviluppo di component software per veicoli a guida autonoma. I progetti sono progettati usando i linguaggi C e C++ per girare su PC e sistemi “embedded”.
 - Uso di Git e CMake per il versionamento dei progetti software e gestione delle build.
 
 ---
 Mag. 2009 - Sett. 2018 \
-`Carestream Health - Technology & Innovation Center for Health Imaging` [www.carestream.com](www.carestream.com), Genova \
+`Carestream Health - Technology & Innovation Center for Health Imaging` [www.carestream.com](http://www.carestream.com), Genova \
 **Senior Software Engineer**
 - Sviluppo del sistema RIS (Radiology Information System). Il sistema è costituito da una suite di applicativi client-side per la prenotazione, refertazione con riconoscimento vocale, scansione documenti, fatturazione e di una back-end, basata su database Oracle, con un gateway per l’integrazione con il sistema informativo dell’ospedale.
 
 ---
 Mar. 2005 - Mag. 2009 \
-`Carestream Health (ex Kodak) - Technology & Innovation Center for Health Imaging` [www.carestream.com](www.carestream.com), Genova \
+`Carestream Health (ex Kodak) - Technology & Innovation Center for Health Imaging` [www.carestream.com](http://www.carestream.com), Genova \
 **Integration Specialist**
 - Analisi, implementazione e test di componenti software per integrare le applicazioni medicali Kodak con i sistemi informativi utilizzati dal cliente.
 
 ---
 Gen. 2002 - Feb. 2005 \
-`think3 inc. (ex CAD.LAB)` [www.think3.it](www.think3.it), Casalecchio di Reno (Bologna) \
+`think3 inc. (ex CAD.LAB)` [www.think3.it](http://www.think3.it), Casalecchio di Reno (Bologna) \
 **Software Engineer**
 - Sviluppo di thinkdesign, principale applicazione software dell’azienda per la modellazione solida e di superfici.
 - Analisi/sviluppo/debugging di componenti software utilizzate dagli altri team.

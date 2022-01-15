@@ -9,51 +9,53 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 
 ## Esperienze professionali
 
-Gennaio 2022 - Presente \
-Genova (da remoto) \
 `Sysdig` - [www.sysdig.com](http://www.sysdig.com) \
+Genova (da remoto) \
+Gennaio 2022 - Presente \
 **Senior Systems Software Engineer**
 
 ---
-Luglio 2021 - Gennaio 2022 \
-Genova (da remoto) \
 `Viz.ai`- [www.viz.ai](http://www.viz.ai) \
+Genova (da remoto) \
+Luglio 2021 - Gennaio 2022 \
 **Technical Application Specialist**
 - Technical and application support to Viz.ai solution for managing stroke-related workflow in clinical departments.
 - Planning, deployment, support, training for Viz.ai cloud-based solution and mobile apps.
 - Coordination with other internal teams (R&D, DevOps)
 
 ---
-Sett. 2019 - Giugno 2021 \
-Sophia Antipolis (Nizza), Francia \
 `Amadeus` - [www.amadeus.com](http://www.amadeus.com) \
+Sophia Antipolis (Nizza), Francia \
+Sett. 2019 - Giugno 2021 \
 **Staff Software Development Engineer**
 - Sviluppo di componenti software di back-end per le attività di shopping, preventive e prenotazione di soluzioni assicurative associate a altri servizi offerti da Amadeus (prenotazione voli e noleggio auto).
 - Sviluppo in C++ "moderno" (post C++11).
 - Uso di Git attraverso Bitbucket per il versionamento dei progetti software.
 
 ---
+`Vislab Srl (Ambarella)` - [www.vislab.it](http://www.vislab.it) - [www.ambarella.com](http://www.ambarella.com) \
+Parma \
 Ott. 2018 - Ago. 2019 \
-`Vislab Srl (Ambarella)` - [www.vislab.it](http://www.vislab.it) - [www.ambarella.com](http://www.ambarella.com), Parma \
 **Staff Algorithm Engineer**
 - Sviluppo di component software per veicoli a guida autonoma. I progetti sono progettati usando i linguaggi C e C++ per girare su PC e sistemi “embedded”.
 - Uso di Git e CMake per il versionamento dei progetti software e gestione delle build.
 
 ---
+`Carestream Health (ex Kodak) - Technology & Innovation Center for Health Imaging` [www.carestream.com](http://www.carestream.com) \
+Genova
+
 Mag. 2009 - Sett. 2018 \
-`Carestream Health - Technology & Innovation Center for Health Imaging` [www.carestream.com](http://www.carestream.com), Genova \
 **Senior Software Engineer**
 - Sviluppo del sistema RIS (Radiology Information System). Il sistema è costituito da una suite di applicativi client-side per la prenotazione, refertazione con riconoscimento vocale, scansione documenti, fatturazione e di una back-end, basata su database Oracle, con un gateway per l’integrazione con il sistema informativo dell’ospedale.
 
----
 Mar. 2005 - Mag. 2009 \
-`Carestream Health (ex Kodak) - Technology & Innovation Center for Health Imaging` [www.carestream.com](http://www.carestream.com), Genova \
 **Integration Specialist**
 - Analisi, implementazione e test di componenti software per integrare le applicazioni medicali Kodak con i sistemi informativi utilizzati dal cliente.
 
 ---
+`think3 inc. (ex CAD.LAB)` [www.think3.it](http://www.think3.it) \
+Casalecchio di Reno (Bologna) \
 Gen. 2002 - Feb. 2005 \
-`think3 inc. (ex CAD.LAB)` [www.think3.it](http://www.think3.it), Casalecchio di Reno (Bologna) \
 **Software Engineer**
 - Sviluppo di thinkdesign, principale applicazione software dell’azienda per la modellazione solida e di superfici.
 - Analisi/sviluppo/debugging di componenti software utilizzate dagli altri team.
@@ -61,8 +63,9 @@ Gen. 2002 - Feb. 2005 \
 - Analisi delle specifiche e richieste da parte dei clienti.
 
 ---
+`PROGRAM srl`, gruppo AISoftw@re \
+Vicenza \
 Ott. 1997 - Dic. 2001 \
-`PROGRAM srl`, gruppo AISoftw@re, Vicenza \
 **Progettista Software/Programmatore**
 - Sviluppo di applicazioni in ambiente Windows per archiviazione e elaborazione di immagini medicali per radiologia/cardiologia.
 - Gestione progetti software a cui contribuiscono più persone
@@ -71,23 +74,14 @@ Ott. 1997 - Dic. 2001 \
 
 ## Linguaggi di programmazione
 
-**C/C++**
-: Estesa conoscenza, compresi i vari standard moderni (C++11/14/17/20) derivante da lunga esperienza di lavoro. Utilizzo della Standard Template Library (STL) e delle librerie Boost. Dimestichezza con alcuni principali IDE (Visual Studio, Visual Studio Code, Eclipse).
-
-**Java**
-: Esperienza di lavoro. Programmazione di servlet per sviluppo applicazioni web lato server. Programmazione di rete per comunicazione tra dispositivi. Utilizzo di Eclipse come ambiente di sviluppo.
-
-**Python**
-: Composizione di script per attività ricorrenti nella gestione di progetti software.
-
-**Javascript**
-: Buona conoscenza per programmazione web lato client.
-
-**VB6**
-: Estesa conoscenza, resa necessaria per il mantenimento di un importante progetto gestito durante la mia carriera.
-
-**Oracle PL/SQL**
-: Buona conoscenza di programmazione e progettazione di basi di dati Oracle.
+|   |   |
+|---|---|
+|**C/C++**        |Estesa conoscenza, compresi i vari standard moderni (C++11/14/17/20) derivante da lunga esperienza di lavoro. Utilizzo della Standard Template Library (STL) e delle librerie Boost. Dimestichezza con alcuni principali IDE (Visual Studio, Visual Studio Code, Eclipse).|
+|**Java**         | Esperienza di lavoro. Programmazione di servlet per sviluppo applicazioni web lato server. Programmazione di rete per comunicazione tra dispositivi. Utilizzo di Eclipse come ambiente di sviluppo.|
+|**Python**       | Composizione di script per attività ricorrenti nella gestione di progetti software.|
+|**Javascript**   | Buona conoscenza per programmazione web lato client.|
+|**VB6**          | Estesa conoscenza, resa necessaria per il mantenimento di un importante progetto gestito durante la mia carriera.|
+|**Oracle PL/SQL**| Buona conoscenza di programmazione e progettazione di basi di dati Oracle.|
 
 ## Tecnologie software
 
@@ -126,7 +120,7 @@ Ott. 1997 - Dic. 2001 \
 
 ## Dati Personali
 
-Residenza: Genova
+Residenza: Genova \
 Data di nascita: 4 luglio 1972 \
 Luogo di nascita: Genova
 

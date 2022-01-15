@@ -9,57 +9,54 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 
 ## Work Experience
 
-January 2022 - Present \
-Genoa, Italy (Remote) \
 `Sysdig` - [www.sysdig.com](http://www.sysdig.com) \
+Genoa, Italy (Remote) \
+January 2022 - Present \
 **Senior Systems Software Engineer**
 
 ---
-July 2021 - January 2022 \
-Genoa, Italy (Remote) \
 `Viz.ai` - [www.viz.ai](http://www.viz.ai) \
+Genoa, Italy (Remote) \
+July 2021 - January 2022 \
 **Technical Application Specialist**
 - Technical and application support to Viz.ai solution for managing stroke-related workflow in clinical departments.
 - Planning, deployment, support, training for Viz.ai cloud-based solution and mobile apps.
 - Coordination with other internal teams (R&D, DevOps)
 
 ---
-September 2019 - June 2021 \
-Sophia Antipolis (Nice), France \
 `Amadeus` - [www.amadeus.com](http://www.amadeus.com) \
+Sophia Antipolis (Nice), France \
+September 2019 - June 2021 \
 **Staff Software Development Engineer**
 - Design and development of back-end software components for the shopping, pricing and booking of insurance solutions tied to the reservation of flight tickets or car hire.
 - Development in modern C++ (post C++11).
 - Use of Git for software versioning.
 
 ---
-October 2018 - August 2019 \
-Parma, Italy \
 `VisLab Srl (Ambarella)` - [www.vislab.it](http://www.vislab.it) - [www.ambarella.com](http://www.ambarella.com) \
+Parma, Italy \
+October 2018 - August 2019 \
 **Staff Algorithm Engineer**
 - Design and development of software components for autonomous driving vehicles. The software projects are mostly developed using C/C++ both for PC's and embedded systems.
 - Use of Git and CMake for software versioning and build management.
 
 ---
-May 2009 - September 2018 \
-Genoa, Italy \
 `Carestream Health (ex Kodak)` - [www.carestream.com](http://www.carestream.com) \
 `Technology & Innovation Center for Health Imaging` \
+Genoa, Italy
+
+May 2009 - September 2018 \
 **Senior Software Engineer**
 - Design and development of RIS (Radiology Information System). This software system is made up of a suite of client-side applications for booking, reporting (with speech recognition), document scanning and billing and of a back-end, based on an Oracle database, with a gateway for integrating with the hospital information system. The task poses several challenges due to the variety of technologies and languages involved as well as the interaction with customers that work in a clinical environment and need prompt response to problems.
 
----
 March 2005 - May 2009 \
-Genoa, Italy \
-`Carestream Health (ex Kodak)` - [www.carestream.com](http://www.carestream.com) \
-`Technology & Innovation Center for Health Imaging` \
 **Integration Specialist**
 - Analysis, implementation and test of software components for integrating Kodak clinical software with third-party information systems used by customers.
 
 ---
-Jan. 2002 - Feb. 2005 \
-Casalecchio di Reno (Bologna) \
 `think3 inc. (ex CAD.LAB)` - [www.think3.it](http://www.think3.it) \
+Casalecchio di Reno (Bologna) \
+Jan. 2002 - Feb. 2005 \
 **Software Engineer**
 - Development of thinkdesign, the main software application for solid and surface geometric modeling commercialized by the company.
 - Analysis/development/debugging of software components used by other teams involved in the project.
@@ -67,9 +64,9 @@ Casalecchio di Reno (Bologna) \
 - Analysis and implementation of customer requests.
 
 ---
-Oct. 1997 - Dec. 2001 \
-Vicenza, Italy \
 `PROGRAM srl (acquired by AISoftw@re, then Exprivia)` \
+Vicenza, Italy \
+Oct. 1997 - Dec. 2001 \
 **Software Developer**
 - Development of Windows applications for radiology medical image storage and viewing.
 - Software project versioning and build management.
@@ -78,23 +75,14 @@ Vicenza, Italy \
 
 ## Programming Languages
 
-**C/C++**
-: Deep knowledge of latest standards (C++11/14/17/20) gained with long work experience. Usage of the Standard Template Library (STL) and Boost. Knowledge of some of the main IDE's (Visual Studio, Visual Studio Code, Eclipse).
-
-**Java**
-: Work experience. Servlet programming for server-side web application development. Network programming for device communication.
-
-**Python**
-: Writing of scripts for carrying out activities related to the maintenance of large software projects. Preference for Python 3.
-
-**Javascript**
-: Good knowledge for client-side web programming.
-
-**VB6**
-: Extensive knowledge, necessary for maintaining a large, important project I found myself responsible for during my career.
-
-**Oracle PL/SQL**
-: Good knowledge of Oracle database programming and design.
+|   |   |
+|---|---|
+| **C/C++**        |Deep knowledge of latest standards (C++11/14/17/20) gained with long work experience. Usage of the Standard Template Library (STL) and Boost. Knowledge of some of the main IDE's (Visual Studio, Visual Studio Code, Eclipse).|
+| **Java**         |Work experience. Servlet programming for server-side web application development. Network programming for device communication.|
+| **Python**       |Writing of scripts for carrying out activities related to the maintenance of large software projects. Preference for Python 3.|
+| **Javascript**   |Good knowledge for client-side web programming.|
+| **VB6**          |Extensive knowledge, necessary for maintaining a large, important project I found myself responsible for during my career.|
+| **Oracle PL/SQL**|Good knowledge of Oracle database programming and design.|
 
 ## Software & Technologies
 
@@ -136,7 +124,7 @@ Software Build Management with CMake.
 
 ## Personal Details
 
-Living in Genoa, Italy
+Living in Genoa, Italy \
 Date of birth: July 4, 1972 \
 Place of birth: Genoa \
 Citizenship: Italian

@@ -3,16 +3,9 @@ tile: Federico Aponte - Curriculum vitae
 ---
 # Federico Aponte
 
-Piazza Palermo, 7/7d \
-16129 Genova \
-_email:_ federico.aponte@gmail.com \
+_email:_ [federico.aponte@gmail.com](mailto:federico.aponte@gmail.com) \
 _Github:_ [https://fedapo.github.io](https://fedapo.github.io) \
 _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.com/in/federicoaponte)
-
-## Dati Personali
-
-Data di nascita: 4 luglio 1972 \
-Luogo di nascita: Genova
 
 ## Esperienze professionali
 
@@ -125,6 +118,12 @@ Ott. 1997 - Dic. 2001 \
 - UC Davis, Stati Uniti (1994-95): Un anno accademico durante un programma di scambio tra l’Università di Padova e l’Università di California.
 - Stati Uniti (1989-90): Programma di scambio in famiglia di un anno con Intercultura. Il programma prevedeva che frequentassi il quarto anno di scuola superiore.
 
-## Interessi personali
+## Dati Personali
+
+Residenza: Genova
+Data di nascita: 4 luglio 1972 \
+Luogo di nascita: Genova
+
+## Interessi
 
 Mi piace misurarmi con impegnative salite e lunghi giri in bici durante l'estate e nuoto regolarmente. Amo la lettura di narrativa e, occasionalmente, saggistica.

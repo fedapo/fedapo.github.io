@@ -3,17 +3,9 @@ title: Federico Aponte's CV
 ---
 # Federico Aponte
 
-Piazza Palermo, 7/7d \
-16129 Genova - Italy \
-_email:_ federico.aponte@gmail.com \
+_email:_ [federico.aponte@gmail.com](mailto:federico.aponte@gmail.com) \
 _Github:_ [https://fedapo.github.io](https://fedapo.github.io) \
 _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.com/in/federicoaponte)
-
-## Personal Details
-
-Date of birth: July 4, 1972 \
-Place of birth: Genoa \
-Citizenship: Italian
 
 ## Work Experience
 
@@ -136,6 +128,13 @@ Software Build Management with CMake.
 - UC Davis, USA (1994-95): Attended one academic year during a student exchange program between the University of Padova and the University of California.
 - Orlando, USA (1989-90): AFS Student exchange program. I lived for a year with an American family and during this experience I attended a local high school.
 
-## Personal Interests
+## Personal Details
+
+Living in Genoa, Italy
+Date of birth: July 4, 1972 \
+Place of birth: Genoa \
+Citizenship: Italian
+
+## Interests
 
 I enjoy the challenge of taking my bicycle on uphill slopes and long rides during the summer and I swim regularly. I love reading novels and, occasionally, essays.

@@ -6,8 +6,8 @@ tile: Federico Aponte - Curriculum vitae
 Piazza Palermo, 7/7d \
 16129 Genova \
 _email:_ federico.aponte@gmail.com \
-_Github:_ https://fedapo.github.io \
-_LinkedIn:_ https://www.linkedin.com/in/federicoaponte
+_Github:_ [https://fedapo.github.io](https://fedapo.github.io) \
+_LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.com/in/federicoaponte)
 
 ## Dati Personali
 

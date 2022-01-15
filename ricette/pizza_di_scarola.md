@@ -3,7 +3,7 @@ title: Pizza di scarola
 ---
 # Pizza di scarola
 
-# Sfoglia
+## Sfoglia
 
 - Farina 250 gr
 - 2 cucchiai d'olio
@@ -13,7 +13,7 @@ title: Pizza di scarola
 
 Impastate con l'acqua tiepida fino a formare una palla di pasta elastica, quindi fate riposare per un’ora in un panno umido.
 
-# Preparazione
+## Preparazione
 
 1. 1 Kg di scarola lessata con sale, strizzata e tritata non molto fine, passarla in tegame con olio d’oliva e aglio (che non deve rosolare).
 

@@ -9,7 +9,13 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 
 ## Work Experience
 
-July 2021 - Present \
+January 2022 - Present \
+Genoa, Italy (Remote) \
+`Sysdig` - www.sysdig.com \
+**Senior Systems Software Engineer**
+
+---
+July 2021 - January 2022 \
 Genoa, Italy (Remote) \
 `Viz.ai` - www.viz.ai \
 **Technical Application Specialist**

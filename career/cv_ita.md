@@ -9,7 +9,13 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 
 ## Esperienze professionali
 
-Luglio 2021 - Presente \
+Gennaio 2022 - Presente \
+Genova (da remoto) \
+`Sysdig` - www.sysdig.com \
+**Senior Systems Software Engineer**
+
+---
+Luglio 2021 - Gennaio 2022 \
 Genova (da remoto) \
 `Viz.ai`- www.viz.ai \
 **Technical Application Specialist**
@@ -23,7 +29,7 @@ Sophia Antipolis (Nizza), Francia \
 `Amadeus` - www.amadeus.com  \
 **Staff Software Development Engineer**
 - Sviluppo di componenti software di back-end per le attività di shopping, preventive e prenotazione di soluzioni assicurative associate a altri servizi offerti da Amadeus (prenotazione voli e noleggio auto).
-- Sviluppo in C++ "moderno" (C++11/14/17).
+- Sviluppo in C++ "moderno" (C++11/14/17/20).
 - Uso di Git attraverso Bitbucket per il versionamento dei progetti software.
 
 ---
@@ -113,7 +119,7 @@ Ott. 1997 - Dic. 2001 \
 - Francese: conoscenza di base.
 - Spagnolo: conoscenza di base.
 
-## Esperienze all'estero
+## Esperienze all’estero
 
 - UC Davis, Stati Uniti (1994-95): Un anno accademico durante un programma di scambio tra l’Università di Padova e l’Università di California.
 - Stati Uniti (1989-90): Programma di scambio in famiglia di un anno con Intercultura. Il programma prevedeva che frequentassi il quarto anno di scuola superiore.
@@ -126,4 +132,4 @@ Luogo di nascita: Genova
 
 ## Interessi
 
-Mi piace misurarmi con impegnative salite e lunghi giri in bici durante l'estate e nuoto regolarmente. Amo la lettura di narrativa e, occasionalmente, saggistica.
+Mi piace misurarmi con impegnative salite e lunghi giri in bici durante l’estate e nuoto regolarmente. Amo la lettura di narrativa e, occasionalmente, saggistica.

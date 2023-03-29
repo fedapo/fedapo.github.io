@@ -12,7 +12,11 @@ _LinkedIn:_ [https://www.linkedin.com/in/federicoaponte](https://www.linkedin.co
 `Sysdig` - [www.sysdig.com](http://www.sysdig.com) \
 Genoa, Italy (Remote) \
 January 2022 - Present \
-**Senior Systems Software Engineer**
+**Systems Software Engineer**
+- As part of the Agent Team, the product for collecting all server metrics to be sent to other software components for monitoring.
+- Development of the product in C++17: maintenance and refactoring of existing code, development of new features.
+- Product support during customer escalations.
+- Usage of all ancillary tools for development: CMake, Git, Jira, Jenkins.
 
 ---
 `Viz.ai` - [www.viz.ai](http://www.viz.ai) \

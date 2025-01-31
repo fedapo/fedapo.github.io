@@ -14,9 +14,9 @@ Genoa, Italy (Remote) \
 January 2022 - Present \
 **Systems Software Engineer**
 - As part of the Agent Team, the product for collecting all server metrics to be sent to other software components for monitoring.
-- Development of the product in C++17: maintenance and refactoring of existing code, development of new features.
+- Development of the product in C++23: maintenance and refactoring of existing code, development of new features.
 - Product support during customer escalations.
-- Usage of all ancillary tools for development: CMake, Git, Jira, Jenkins.
+- Usage of all ancillary tools for development: Docker, CMake, Git, Jira, Jenkins.
 
 ---
 `Viz.ai` - [www.viz.ai](http://www.viz.ai) \
@@ -79,14 +79,15 @@ Oct. 1997 - Dec. 2001 \
 
 ## Programming Languages
 
-|   |   |
-|---|---|
-| **C/C++**        |Deep knowledge of latest standards (C++11/14/17/20) gained with long work experience. Usage of the Standard Template Library (STL) and Boost. Knowledge of some of the main IDE's (Visual Studio, Visual Studio Code, Eclipse).|
-| **Java**         |Work experience. Servlet programming for server-side web application development. Network programming for device communication.|
-| **Python**       |Writing of scripts for carrying out activities related to the maintenance of large software projects. Preference for Python 3.|
-| **Javascript**   |Good knowledge for client-side web programming.|
-| **VB6**          |Extensive knowledge, necessary for maintaining a large, important project I found myself responsible for during my career.|
-| **Oracle PL/SQL**|Good knowledge of Oracle database programming and design.|
+| Language         | Experience |
+|------------------|------------|
+| **C/C++**        | Deep knowledge of latest standards (C++11/14/17/20) gained with long work experience. Usage of the Standard Template Library (STL) and Boost. Knowledge of some of the main IDE's (Visual Studio, Visual Studio Code). |
+| **Java**         | Work experience. Servlet programming for server-side web application development. Network programming for device communication. |
+| **Go**           | Some exposure while maintaining projects at work. |
+| **Python**       | Writing of scripts for carrying out activities related to the maintenance of large software projects. Preference for Python 3. |
+| **Javascript**   | Good knowledge for client-side web programming. |
+| **VB6**          | Extensive knowledge, necessary for maintaining a large, important project I found myself responsible for during my career. |
+| **Oracle PL/SQL**| Good knowledge of Oracle database programming and design. |
 
 ## Software & Technologies
 

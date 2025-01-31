@@ -74,14 +74,15 @@ Ott. 1997 - Dic. 2001 \
 
 ## Linguaggi di programmazione
 
-|   |   |
-|---|---|
-|**C/C++**        |Estesa conoscenza, compresi i vari standard moderni (C++11/14/17/20) derivante da lunga esperienza di lavoro. Utilizzo della Standard Template Library (STL) e delle librerie Boost. Dimestichezza con alcuni principali IDE (Visual Studio, Visual Studio Code, Eclipse).|
-|**Java**         | Esperienza di lavoro. Programmazione di servlet per sviluppo applicazioni web lato server. Programmazione di rete per comunicazione tra dispositivi. Utilizzo di Eclipse come ambiente di sviluppo.|
-|**Python**       | Composizione di script per attività ricorrenti nella gestione di progetti software.|
-|**Javascript**   | Buona conoscenza per programmazione web lato client.|
-|**VB6**          | Estesa conoscenza, resa necessaria per il mantenimento di un importante progetto gestito durante la mia carriera.|
-|**Oracle PL/SQL**| Buona conoscenza di programmazione e progettazione di basi di dati Oracle.|
+| Linguaggio        | Esperienza |
+|-------------------|------------|
+| **C/C++**         | Estesa conoscenza, compresi i vari standard moderni (C++11/14/17/20) derivante da lunga esperienza di lavoro. Utilizzo della Standard Template Library (STL) e delle librerie Boost. Dimestichezza con alcuni principali IDE (Visual Studio, Visual Studio Code). |
+| **Java**          | Esperienza di lavoro. Programmazione di servlet per sviluppo applicazioni web lato server. Programmazione di rete per comunicazione tra dispositivi. |
+| **Go**            | Usato saltuariamente per progetti di lavoro. |
+| **Python**        | Composizione di script per attività ricorrenti nella gestione di progetti software. |
+| **Javascript**    | Buona conoscenza per programmazione web lato client. |
+| **VB6**           | Estesa conoscenza, resa necessaria per il mantenimento di un importante progetto gestito durante la mia carriera. |
+| **Oracle PL/SQL** | Buona conoscenza di programmazione e progettazione di basi di dati Oracle. |
 
 ## Tecnologie software
 
